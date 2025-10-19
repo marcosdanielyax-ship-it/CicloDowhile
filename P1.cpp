@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip> // Para formatos de salida si fuera necesario
+#include <iomanip>
 
 using namespace std;
 
@@ -110,3 +110,4 @@ int main() {
 
     return 0; // Salir sin errores
 }
+
